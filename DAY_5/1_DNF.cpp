@@ -39,7 +39,7 @@ int main()
 
     vector<int> array(size);
 
-    cout << "Enter matrix elements:\n";
+    cout << "Enter vector elements:\n";
 
     for (int j = 0; j < size; j++)
     {
